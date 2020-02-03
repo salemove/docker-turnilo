@@ -1,6 +1,6 @@
 FROM node:9-alpine
 
-RUN npm install -g turnilo@1.14.0
+RUN npm install -g turnilo@1.21.0
 
 EXPOSE 9090
 
